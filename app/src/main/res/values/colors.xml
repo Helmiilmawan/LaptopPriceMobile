@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Warna utama abu-abu -->
+    <color name="gray_primary">#B0BEC5</color> <!-- AppBar & Button -->
+    <color name="gray_light">#ECEFF1</color>   <!-- Background / Drawer -->
+    <color name="gray_dark">#78909C</color>
+
+    <!-- Aksen tambahan -->
+    <color name="purple_700">#6200EE</color>
+</resources>

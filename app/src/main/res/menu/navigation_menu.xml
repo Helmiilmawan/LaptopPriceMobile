@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_about"
+        android:title="Tentang Aplikasi"
+        android:icon="@drawable/ic_about" />
+    <item
+        android:id="@+id/nav_feature"
+        android:title="Fitur"
+        android:icon="@drawable/ic_feature" />
+    <item
+        android:id="@+id/nav_architecture"
+        android:title="Arsitektur Model"
+        android:icon="@drawable/ic_architecture" />
+
+</menu>

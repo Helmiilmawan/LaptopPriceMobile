@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:background="@color/gray_primary">
+
+    <!-- Logo Aplikasi -->
+    <ImageView
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:src="@drawable/logo"
+        android:contentDescription="Logo Aplikasi" />
+
+    <!-- Nama Aplikasi -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LaptopPredict"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:paddingTop="8dp"/>
+</LinearLayout>
